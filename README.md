@@ -1,8 +1,4 @@
-# 💫 About Me 
-
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kumaraman73065@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-kumar-681633359/)  
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AmanKum50754098) 
+# 💫 About Me [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kumaraman73065@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-kumar-681633359/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AmanKum50754098) 
 
 I am a B.Tech student pursuing Computer Science and Artificial Intelligence, focused on building real-world software systems and solving complex problems through technology. I enjoy understanding how systems work and applying that knowledge to develop practical, scalable applications.
 
