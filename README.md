@@ -1,4 +1,4 @@
-# 💫 About Me [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kumaraman73065@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-correct-link)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AmanKum50754098)  
+# 💫 About Me [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kumaraman73065@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-correct-link](https://www.linkedin.com/in/aman-kumar-681633359/))  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)]([https://x.com/AmanKum50754098](https://x.com/AmanKum50754098))  
 
 I am a B.Tech student pursuing Computer Science and Artificial Intelligence, focused on building real-world software systems and solving complex problems through technology. I enjoy understanding how systems work and applying that knowledge to develop practical, scalable applications.
 
@@ -7,6 +7,7 @@ I have developed a solid foundation in Python programming and web development, w
 I am actively working on Generative AI and System Design, building projects involving LLMs, APIs, and scalable architectures. Alongside my technical journey, I am focused on entrepreneurship, aiming to combine technology, innovation, and business thinking to create impactful, real-world solutions.
 
 ---
+https://www.linkedin.com/in/aman-kumar-681633359/
 
 ## 🛠️ Technical Skills
 
@@ -31,22 +32,22 @@ I am actively working on Generative AI and System Design, building projects invo
 ### 🌐 Full Stack Projects
 
 #### 🔹 CliQ (Social Networking Platform)
-🔗 GitHub: <add-link-here>  
-🔗 Hosted: <add-link-here>  
+🔗 GitHub: <[add-link-here](https://cliq-web-rho.vercel.app/home)>
+🔗 Hosted: <[add-link-here](https://github.com/Aman-kumar-git12/CliQ_Web)>  
 
 📝 A full-stack social networking platform where users can share posts with images, interact through likes, comments, and real-time chat, and explore a personalized feed based on their connections.  
 
 ---
 
 #### 🔹 TrustTrade (B2B/B2C Marketplace)
-🔗 <add-link-here>  
+🔗 GitHub: <[add-link-here](https://github.com/Aman-kumar-git12/TrustTradeDev)>  
+🔗 Hosted: <[add-link-here](https://trust-trade-dev.vercel.app/)>    
 
 📝 A full-stack marketplace platform for buying and selling digital businesses, featuring secure authentication, protected routes, dynamic dashboards, real-time negotiation, and user-friendly interfaces for seamless transactions.  
 
 ---
 
-## ⚡ What I'm Building Right Now
-
+## 🔥 Philosophy
 "Build scalable systems, solve real problems, and improve through execution."
 
 ---
